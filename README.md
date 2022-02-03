@@ -6,8 +6,20 @@
 
 <hr>
 
-```
-# code block
-pwd
+## Calculate and plot 1d SFS from VCF files
+
+#### Calculate SFS
 
 ```
+# code block
+Rscript xx.R xx.vcf
+```
+
+#### Plot SFS
+
+```
+Rscript xx.R xx.vcf
+```
+
+
+#### Plot SFS with geometric distribution
