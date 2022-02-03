@@ -5,7 +5,7 @@
 
 ## Contents
 
-* [Checking SFS](#calculate-plot-sfs)
+* [Caluculate and plot 1d SFS from VCF files](#calculate-and-plot-1d-sfs-from-vcf-files)
 * [Admixture](#admixture)
 
 ---
@@ -27,3 +27,7 @@ Rscript xx.R xx.vcf
 
 
 #### Plot SFS with geometric distribution
+
+---
+
+## Admixture
