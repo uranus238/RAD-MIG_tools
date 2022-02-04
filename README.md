@@ -5,8 +5,15 @@
 
 ## Contents
 
-* [Caluculate and plot 1d SFS from VCF files](#calculate-and-plot-1d-sfs-from-vcf-files)
+* [Calculate sequence dissimilarity](#calculate-sequence-dissimilarity)
+* [Calculate and plot 1d SFS from VCF files](#calculate-and-plot-1d-sfs-from-vcf-files)
 * [Admixture](#admixture)
+
+---
+
+## Calculate sequence dissimilarity
+
+calc_pairwise_sim.R
 
 ---
 
