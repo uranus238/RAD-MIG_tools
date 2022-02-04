@@ -1,7 +1,6 @@
 # calculate sequence similariy
 
-library(Rphylip)
-library(adegenet)
+library(ape)
 library(tidyverse)
 
 dat <- ape::read.dna(file = "./stacks_mu_ind/populations.all.phylip")
