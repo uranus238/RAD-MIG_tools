@@ -1,6 +1,6 @@
 # RAD・MIGtools
 
-#### This is a collection of scripts for processing and analying genome-wide sequencing data.
+#### This is a collection of scripts for processing and analysing genome-wide sequencing data.
 #### I mainly focus on dealing with Reduced Representation Sequence (RRS) data obtained by RAD-seq, MIG-seq and GRAS-Di is assumed (but any other data could be applied).
 
 ## Contents
